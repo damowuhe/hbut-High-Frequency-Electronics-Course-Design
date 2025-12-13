@@ -14,3 +14,6 @@
 <img width="837" height="764" alt="image" src="https://github.com/user-attachments/assets/187f03f8-ae38-436f-901e-28dee7b7af66" />
 使用Freertos的工程ram,rom占有率情况
 <img width="1557" height="315" alt="image" src="https://github.com/user-attachments/assets/66b1ade9-e4e3-4276-b41a-f9dc8f087955" />
+下面是测试的800khz和1240khz的情况
+![qq_pic_merged_1765642525356](https://github.com/user-attachments/assets/d7a1f9fb-c429-49b0-8cab-e88f8e24c25a)
+![qq_pic_merged_1765642513699](https://github.com/user-attachments/assets/134f5bfa-455a-45e6-9ca1-3e8160613602)
